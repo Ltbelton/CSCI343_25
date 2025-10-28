@@ -42,6 +42,7 @@ export default function App() {
           screenOptions={{
             headerStyle: { backgroundColor: Colors.primary800 },
             headerTintColor: "white",
+            headerTitleStyle:{fontFamily: "Mountain"},
             contentStyle: { backgroundColor: "white" },
           }}
         >

@@ -30,6 +30,7 @@ export default function HomeScreen(props){
             return item.id;
         }}
         renderItem={renderCountryItem}
+        numColumns={2}
         />
         </View>
     );

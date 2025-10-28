@@ -1,5 +1,5 @@
 import { LinearGradient } from "expo-linear-gradient";
-import { Pressable, StyleSheet, View, Platform } from "react-native";
+import { Pressable, StyleSheet, View, Platform, Text } from "react-native";
 import Colors from "../constants/colors";
 
 export default function CountryGridTile(props){
